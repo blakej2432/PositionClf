@@ -114,16 +114,47 @@ ast    3.200734
 ```
 __리바운드(reb)도 높지만 두번째 군집과 비교하여 2점슛 득점(2p)과 2점슛 시도(2pa)가 높은 공격형 군집__
 
-__Low-post Attacker__  
+__Post Attacker__  
 
 #
 
 * 대표선수
 
+1. __3-point-shooting Center__ 
 
+__Karl-Anthony Towns__
 
+![towns](https://user-images.githubusercontent.com/104886103/173276076-cf3c748e-2cf8-4529-b9a6-a2f546e62509.jpg)
 
+출처: nba.nbcsports.com  
 
+#
 
+2. __Rim Protector__ 
+
+__Rudy Gobert__
+
+<img width="250" alt="gobert" src="https://user-images.githubusercontent.com/104886103/173276471-0f4a2597-7e00-4b27-abd2-27b48feb2d73.jpg">
+
+출처: Forbes.com  
+
+#
+
+3. __Post Attacker__
+
+__Joel Embiid__
+
+<img width="250" alt="사이트1" src="https://user-images.githubusercontent.com/104886103/173276901-12668e71-9f39-44da-bc00-cc7ebb541463.jpg">
+
+출처: si.com
+
+---------------------
+
+### 4. 평가전개
+
+* 선수 기록지를 바탕으로 특정 종류의 기록 비중이 높은 선수들을 특정 군집으로 분류 (3개)
+
+* 3-point-shooting center / rim protector / post attacker 로 분류 가능하나,   
+모든 스탯이 높은 에이스급 선수의 경우 다소 일치하지 않는 경우 존재 
 
 
